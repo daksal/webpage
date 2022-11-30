@@ -3,9 +3,9 @@ project:
 
 website: 
   page-navigation: true
-  title: "NOAA quarto simple" 
-  site-url: "https://nmfs-opensci.github.io/NOAA-quarto-simple" 
-  repo-url: "https://github.com/nmfs-opensci/NOAA-quarto-simple"
+  title: "야놀자와 여기어때" 
+  site-url: "https://nmfs-opensci.github.io/yanolja-goodchoice" 
+  repo-url: "https://github.com/nmfs-opensci/yanolja-goodchoice"
   repo-actions: [edit, source, issue]
   favicon: images/favicon.ico
   
